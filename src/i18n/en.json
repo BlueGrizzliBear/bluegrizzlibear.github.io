@@ -1,0 +1,68 @@
+{
+  "translation": {
+    "sections": {
+      "title": "TITLE",
+      "contact": "CONTACT",
+      "aboutMe": "ABOUT ME",
+      "currentWork": "CURRENT WORK",
+      "techStack": "TECH STACK",
+      "toolStack": "COMMON TOOLS",
+      "mostUsed": "Most Used",
+      "recentProjects": "RECENT PROJECTS",
+      "status": "STATUS",
+      "education": "EDUCATION",
+      "stacks": "STACKS",
+      "career": "CAREER"
+    },
+    "profile": {
+      "jobTitle": "Full Stack Developer",
+      "name": "Clément Bussière",
+      "taglines": [
+        "Full-stack web developer",
+        "Forged at École 42 #BornToCode",
+        "Building web apps for 5+ years",
+        "AI enthusiast"
+      ],
+      "about": [
+        "I'm a French engineer passionate about web development.",
+        "I love building <0>clean</0>, <1>fast</1>, <2>intuitive</2> UIs and writing <3>elegant</3> and <4>reliable</4> code.",
+        "In general I love turning ideas into apps that people enjoy using."
+      ]
+    },
+    "work": {
+      "currentCompany": "Kili Technology",
+      "description": "Developing a best-in-class labeling platform for powering data-centric approaches to Machine Learning.",
+      "haveALook": "Check it out"
+    },
+    "education": {
+      "school": "ÉCOLE"
+    },
+    "status": {
+      "discovering": "Discovering Bun"
+    },
+    "projects": {
+      "liveLink": "Live link",
+      "chrysalide": {
+        "title": "Dans notre chrysalide",
+        "description": "A website for booking and purchasing perinatal care services from Camille, a specialized nurse in Lyon (France)."
+      },
+      "aoc2025": {
+        "title": "Advent of Code 2025",
+        "description": "My current progression on the Advent of Code 2025 from Wastl - currently on day 10 of 12."
+      },
+      "deathwatch": {
+        "title": "Warhammer 40k App",
+        "description": "A web app designed to streamline my Warhammer 40k narrative sessions as Game Master"
+      }
+    },
+    "aria": {
+      "toggleTheme": "Toggle theme",
+      "toggleLanguage": "Toggle language",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "Email",
+      "nextProject": "Next project",
+      "goToProject": "Go to project {{number}}"
+    }
+  }
+}

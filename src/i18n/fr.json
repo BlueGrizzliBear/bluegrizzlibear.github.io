@@ -1,0 +1,68 @@
+{
+  "translation": {
+    "sections": {
+      "title": "TITRE",
+      "contact": "CONTACT",
+      "aboutMe": "À PROPOS",
+      "currentWork": "TRAVAIL ACTUEL",
+      "techStack": "STACK TECHNIQUE",
+      "toolStack": "OUTILS COURANTS",
+      "mostUsed": "Plus Utilisés",
+      "recentProjects": "PROJETS RÉCENTS",
+      "status": "STATUT",
+      "education": "FORMATION",
+      "stacks": "STACKS",
+      "career": "CARRIÈRE"
+    },
+    "profile": {
+      "jobTitle": "Développeur Full Stack",
+      "name": "Clément Bussière",
+      "taglines": [
+        "Forgé à l'École 42 #BornToCode",
+        "Création d'applications web depuis 5+ ans",
+        "Passionné d'IA",
+        "Développeur web full-stack"
+      ],
+      "about": [
+        "Je suis un ingénieur passionné par le développement d'applications web.",
+        "J'aime concevoir des interfaces <0>claires</0>, <1>performantes</1> et <2>intuitives</2>, ainsi que d'écrire du code <3>élégant</3> et <4>robuste</4>.",
+        "Plus généralement, j'aime donner vie à des idées en applications agréables à utiliser."
+      ]
+    },
+    "work": {
+      "currentCompany": "Kili Technology",
+      "description": "Développement d'une plateforme de labellisation de pointe pour soutenir des approches du Machine Learning centrées sur la donnée.",
+      "haveALook": "Jeter un oeil"
+    },
+    "education": {
+      "school": "ÉCOLE"
+    },
+    "status": {
+      "discovering": "Découverte de Bun"
+    },
+    "projects": {
+      "liveLink": "Lien live",
+      "chrysalide": {
+        "title": "Dans notre chrysalide",
+        "description": "Un site web pour réserver et acheter des services de soins périnataux auprès de Camille, infirmière spécialisée à Lyon (France)."
+      },
+      "aoc2025": {
+        "title": "Advent of Code 2025",
+        "description": "Ma progression actuelle sur l'Advent of Code, actuellement au jour 10 sur 12."
+      },
+      "deathwatch": {
+        "title": "Warhammer 40k App",
+        "description": "Une application web conçue pour faciliter mes sessions narratives Warhammer 40k en tant que Maître de Jeu"
+      }
+    },
+    "aria": {
+      "toggleTheme": "Changer le thème",
+      "toggleLanguage": "Changer la langue",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "email": "Email",
+      "nextProject": "Projet suivant",
+      "goToProject": "Aller au projet {{number}}"
+    }
+  }
+}
