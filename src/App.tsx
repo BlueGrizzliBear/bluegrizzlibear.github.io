@@ -151,7 +151,7 @@ function App() {
               <div className="absolute bottom-0 left-0 right-0 bg-black/60 backdrop-blur-sm p-4">
                 <div className="flex items-center gap-2">
                   <div className="w-2 h-2 bg-green-500 rounded-full animate-pulse" />
-                  <span className="text-xl font-light text-white">
+                  <span className="text-xl font-extralight text-white">
                     {t("status.discovering")}
                   </span>
                 </div>
